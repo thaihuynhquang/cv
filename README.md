@@ -29,8 +29,8 @@ Basic understanding about Agile and Scrum development process.
 > Programming languages:
 
 ```
-HTML
-CSS, SCSS, SASS
+HTML, HTML5
+CSS, CSS3, SCSS, SASS
 JavaScript, ES6, ES7
 TypeScript
 ```
@@ -50,7 +50,7 @@ MS SQL Server, MySQL, PostgresSQL, Redis.
 > Version Control:
 
 ```
-Git, GitHub.
+Git, GitHub, Gitlab
 ```
 
 > EngLish:
@@ -65,6 +65,7 @@ Ability read documents, write email, reports.
 ```
 Time management.
 Teamwork.
+Team lead with 3 menber in team.
 ```
 
 #### Experience
