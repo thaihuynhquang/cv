@@ -1,6 +1,6 @@
 ## Huynh Quang Thai
 
-> ### JavaScript Developer.
+> ### Frontend Developer.
 >
 > ### Email: thai.huynh8324@gmail.com
 >
@@ -10,86 +10,104 @@
 
 #### Education
 
-```
-University: Ho Chi Minh City University of Technology and Education.
-Major: Information Technology– Software Engineering.
-Graduation Time: May 2018.
-GPA: 7.49
-```
+- Ho Chi Minh City University of Technology and Education
+
+- Information Technology – Software Engineering.
+
+- Aug 2013 - Dec 2017.
+
+- GPA: 7.49
 
 #### Technical Skills
 
 > IT background knowledge:
 
-```
-Good understanding OOP, Data Structures and Algorithms, Database.
-Basic understanding about Agile and Scrum development process.
-```
+- Good understanding OOP, Data Structures and Algorithms, Database.
+
+- Good understanding about Agile and Scrum development process.
 
 > Programming languages:
 
-```
-HTML, HTML5
-CSS, CSS3, SCSS, SASS
-JavaScript, ES6, ES7
-TypeScript
-```
+- HTML, HTML5, CSS, CSS3, SCSS, SASS, JavaScript, ES6, ES7, TypeScript
 
 > Frameworks/Platforms:
 
-```
-ReactJs, React Native, NodeJs, ExpressJs, Sequelize ORM, WebRTC, Google API, Firebase API
-```
-
-> Database Management Systems:
-
-```
-MS SQL Server, MySQL, PostgresSQL, Redis.
-```
+- ReactJs, Redux, WebAPI, WebRTC
 
 > Version Control:
 
-```
-Git, GitHub, Gitlab
-```
+- Git, GitHub, Gitlab, Bitbucket
 
 > EngLish:
 
-```
-TOEIC: 545
-Ability read documents, write email, reports.
-```
+- TOEIC: 545
 
-> Others:
+- Good reading and writing skills.
 
-```
-Time management.
-Teamwork.
-Team lead with 3 menber in team.
-```
+> Soft skills:
+
+- working independently.
+
+- managing time.
+
+- working with big teams (product manager, designers, frontend developers, backend developers).
+
+- leading a team with 3 other fresher/junior deveploper.
+
+- interviewing freshers.
+
+- training a person from an internship level to a junior level in 1 year.
+
+- self-learning and presentation about the new technologies.
 
 #### Experience
 
-> Rockship co - 08/2017
+Rockship Company
 
-> Peniex.com
+Aug 2017 - Present
 
-- Description: Peniex is cryptocurrency exchange. This provides trading service with BTC, ETH, USDT and many cryptocurrency coin. This includes buying and selling of digital currency.
+> Etown - Education platform (Company product)
 
-- Team Size: 4
+> May 2018 - Present
 
-- Backend: TypeScript, NodeJS, ExpressJS, SocketIO, Redis, Postgres, RabbitMQ, ElasticSearch …
+- Description: Etown offers courses that students can learn in a practical way using technology and live streaming tools so teachers can communicate with these students in real time.
 
-- Frontend: ReactJS.
+- Team Size: 6 (4 frontend - 2 backend)
+
+- Position: frontend team lead.
+
+- Backend tech: Python.
+
+- Frontend tech: ReactJS.
+
+- Responsibilities:
+  Implement UX/UI based on the requirements from designer.
+  Implement HLS video livestreaming feature.
+  Implement voice call one to one feature use WebRTC, JS Web apis (MediaRecorder, MediaSource, MediaStream ...)
+  Collaborate with project manager and team menber to define and improve the team’s workflow, which decreases time to deploy new functionality and reduce bugs related to configuration.
+
+> Zaloex - Cryptocurrency exchange (Company product)
+
+> Aug 2017 - April 2018
+
+- Description: Zaloex provides trading service with BTC, ETH, USDT and many cryptocurrency coin. This includes buying and selling of digital currency.
+
+- Team Size: 4 (3 frontend - 1 backend)
+
+- Position: frontend team lead.
+
+- Backend tech: TypeScript, NodeJS, ExpressJS, SocketIO, Redis, Postgres, RabbitMQ, ElasticSearch …
+
+- Frontend tech: ReactJS
 
 - Mobile: React Native.
 
 - Responsibilities:
-  Design UX/UI and implement the solution (back-end, front-end and mobile use React Native) based on the requirements from stakeholders.
-  Design database schema and implement back-end services, implement additional functionalities
+  Implement UX/UI based on the requirements from designer, stakeholders.
+  Design database schema and implement back-end services, implement additional functionalities.
   Collaborate with team leader to define and improve the team’s workflow, which decreases time to deploy new functionality and reduce bugs related to configuration.
 
-> Student Projects
+Student Projects
 
 > Mobile App Gao Ngon & Re.
 
@@ -101,7 +119,7 @@ Team lead with 3 menber in team.
 - Description: This is a project to make a web app with some basic features as create post, update post, delete post, view list of posts, view the list of students registered, etc.
 - Technologies: Java JSP Servlet, HTML, CSS, JavaScript, Bootstrap.
 
-> Pet Project
+Pet Project
 
 > Map Directions Mobile App.
 
@@ -110,25 +128,20 @@ Team lead with 3 menber in team.
 
 #### Career Objective
 
-```
-Looking for a professional and friendly environment where I can learn more skills and experience. I would like to have the opportunity to learn directly from experts.
-```
+I am looking forward to contributing experiences to work on a high traffic project and up my level to senior/principal level as soon as possible.
 
 #### Personal Details
 
 > Information
 
-```
 Date of Birth: 04/03/1995.
+
 Address: Apartments 3.1 of Bac Rach Chiec, Ward Phuoc Long B, District 9, HCMC.
-```
 
 > Social Activities
 
-```
 Participate in volunteer activities: Entrance Exam Support Program in 2014, Mua He Xanh in 2015.
 
 Member of the Executive Committee of Ho Chi Minh Communist Youth Union of the Faculty of Information Technology, The Ho Chi Minh City University of Technology and Education.
 
 Participate in organizing extracurricular activities for students of Faculty of Information Technology such as Martering IT, Sport Competition, etc.
-```
