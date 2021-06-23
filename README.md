@@ -66,7 +66,7 @@ April 2019 - Present
 - Team Size: 2 front-end developers, 8 full-stack developers.
 - Position: Front-end developer.
 - Frontend tech: ReactJS (Hooks API), Ruby on Rails (Haml, CoffeeScript, Ruby), jQuery, SCSS.
-- Responsibilities: Implement, maintaining, and refactoring UI/UX based on the requirements of the designer. Implement, maintaining, and refactoring common back-end services, additional functionalities follow business logic.
+- Responsibilities: Implement, maintaining, and refactoring UI/UX based on the requirements of the designer. Implement, maintaining, and refactoring common back-end services, additional functionalities follow business logics.
 
 Rockship Company
 
