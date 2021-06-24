@@ -7,8 +7,8 @@
 - Email: thai.huynh8324@gmail.com (Skype)
 - Phone number: +84 947738943 (VN) (Telegram)
 - Github: https://github.com/thaihuynhquang
-- Date of Birth: 04/03/1995.
-- Address: Apartments 3.1 of Bac Rach Chiec, Ward Phuoc Long A, District 9, HCMC.
+- Date of Birth: 04/03/1995
+- Address: No 3.1 Bac Rach Chiec Apartment, Ward Phuoc Long A, District 9, HCMC
 
 #### Career Objective
 
@@ -17,16 +17,16 @@ I am looking forward to contributing experiences to work on a high-traffic proje
 #### Education
 
 - Ho Chi Minh City University of Technology and Education
-- Information Technology – Software Engineering.
-- Aug 2013 - Dec 2017.
+- Information Technology – Software Engineering
+- Aug 2013 - Dec 2017
 - GPA: 7.49
 
 #### Technical Skills
 
 > IT background knowledge:
 
-- Good understanding of OOP, Data Structures and Algorithms, Database.
-- Good understanding of Agile and Scrum development process.
+- Good knowledge of OOP, Data Structures and Algorithms, Database.
+- Good knowledge of Agile and Scrum development processes.
 
 > Programming languages:
 
@@ -42,17 +42,16 @@ I am looking forward to contributing experiences to work on a high-traffic proje
 
 > English:
 
-- Intermediate communication in the working environment.
+- Conversational and written English in the working environment.
 
 > Soft skills:
 
-- Working independently.
-- Managing time.
-- Working with big teams (product manager, designers, front-end developers, backend developers).
-- Leading a team with 3 other fresher/junior developers.
-- Interviewing freshers.
-- Training a person from an internship level to a junior level in 1 year.
-- Self-learning and presentation about the new technologies.
+- Self-motivated and self-managing, with strong organizational skills
+- Ability to meet deadlines.
+- Able to communicate well with multi-functional team members, provide positive feedback to them and collaborate with them to achieve project goals.
+- Able to lead a team with 3 other fresher/junior developers
+- Experience in interviewing and training freshers/juniors developers
+- Self-support, the desire to study new technologies
 
 #### Experience
 
@@ -66,7 +65,8 @@ April 2019 - Present
 - Team Size: 2 front-end developers, 8 full-stack developers.
 - Position: Front-end developer.
 - Frontend tech: ReactJS (Hooks API), Ruby on Rails (Haml, CoffeeScript, Ruby), jQuery, SCSS.
-- Responsibilities: Implement, maintaining, and refactoring UI/UX based on the requirements of the designer. Implement, maintaining, and refactoring common back-end services, additional functionalities follow business logics.
+- Responsibilities: Implement, maintaining, and refactoring UI/UX based on the requirements of the designer. Implement, maintaining, and refactoring common back-end services, additional functionalities follow business logic.
+- Key achievements: migrating main e-commerce feature pages (collections, product details, search results, user account ...) from Rails Views to React and increased performance.
 
 Rockship Company
 
