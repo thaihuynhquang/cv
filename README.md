@@ -1,124 +1,106 @@
-## Huynh Quang Thai - Frontend Developer
+## Thai Huynh Quang - Frontend Developer
 
----
+### Contact
 
-#### Contact
+- Email: thai.huynh8324@gmail.com
+- Phone: +84 947738943
+- [Telegram](https://t.me/thaihuynhquang)
+- [Linkedin](https://www.linkedin.com/in/thaihuynhquang)
+- [Github](https://github.com/thaihuynhquang)
+- Date of Birth: March 4, 1995
+- Location: Ho Chi Minh City, Vietnam
 
-- Email: thai.huynh8324@gmail.com (Skype)
-- Phone number: +84 947738943 (VN) (Telegram)
-- Github: https://github.com/thaihuynhquang
-- Date of Birth: 04/03/1995
-- Address: No 3.1 Bac Rach Chiec Apartment, Ward Phuoc Long A, District 9, HCMC
-
-#### Career Objective
+### Career Objective
 
 I am looking forward to contributing experiences to work on a high-traffic project and level up my skills to the senior/principal level as soon as possible.
 
-#### Education
+### Education
 
-- Ho Chi Minh City University of Technology and Education
-- Information Technology – Software Engineering
-- Aug 2013 - Dec 2017
-- GPA: 7.49
+- University: Ho Chi Minh City University of Technology and Education
+- Faculty: Information Technology – Software Engineering
+- Duration: Aug 2013 - Dec 2017
+- GPA: 7.5
 
-#### Technical Skills
+### Technical Skills
 
-> IT background knowledge:
+#### IT background knowledge
 
-- Good knowledge of OOP, Data Structures and Algorithms, Database.
+- Good knowledge of OOP, Data Structures and Algorithms, Databases.
 - Good knowledge of Agile and Scrum development processes.
 
-> Programming languages:
+#### Programming languages
 
-- HTML5, CSS3, SCSS, JavaScript, ES6, ES7, TypeScript
+- HTML, CSS, JavaScript
 
-> Frameworks/Platforms:
+#### Frameworks/Platforms
 
-- Reactjs, Redux, Vuejs, Vuex
+- Reactjs, React Native
 
-> Version Control:
+#### Version Control
 
-- Git, GitHub, Gitlab, Bitbucket
+- Git - GitHub
 
-> English:
+#### English
 
 - Conversational and written English in the working environment.
 
-> Soft skills:
+#### Soft skills
 
-- Self-motivated and self-managing, with strong organizational skills
+- Self-motivated and self-managing, with strong organizational skills.
 - Ability to meet deadlines.
 - Able to communicate well with multi-functional team members, provide positive feedback to them and collaborate with them to achieve project goals.
-- Able to lead a team with 3 other fresher/junior developers
-- Experience in interviewing and training freshers/juniors developers
-- Self-support, the desire to study new technologies
+- Able to lead a team with 3 other fresher/junior developers.
+- Experience in interviewing and training freshers/junior developers.
+- Self-support, the desire to study new technologies.
 
-#### Experience
+### Experiences
 
-Hipvan
+#### Hipvan
 
-April 2019 - Present
+#### April 2019 - Present
 
 > The Hipvan Ecosystems
 
-- Description: furniture e-commerce platform websites (hipvan.com) and the systems behind them.
-- Team Size: 2 front-end developers, 8 full-stack developers.
-- Position: Front-end developer.
-- Frontend tech: ReactJS (Hooks API), Ruby on Rails (Haml, CoffeeScript, Ruby), jQuery, SCSS.
-- Responsibilities: Implement, maintaining, and refactoring UI/UX based on the requirements of the designer. Implement, maintaining, and refactoring common back-end services, additional functionalities follow business logic.
-- Key achievements: migrating main e-commerce feature pages (collections, product details, search results, user account ...) from Rails Views to React and increased performance.
+- Description: [Hipvan](http://www.hipvan.com/) is a furniture e-commerce platform in Singapore.
+- Team Size: 8 developers (3 front-end, 2 full-stack, 3 back-end).
+- Position: Front-end developer, Mobile app developer.
+- Tech stack: Reactjs, React Native, Ruby on Rails (Haml, CoffeeScript, Ruby), jQuery, SCSS.
+- Responsibilities:
+Migrating main e-commerce feature pages (collections, product details, search results, user account ...) from Rails Views to React
+Increased performance
+Implement new features and UI
 
-Rockship Company
+#### Rockship - Startup
 
-Aug 2017 - Mar 2019
+#### Aug 2017 - Mar 2019
 
-> Etown - Education platform (Company product)
-
+> Etown -An education platform
+>
 > May 2018 - Mar 2019
 
-- Description: Etown offers courses that students can learn in a practical way using technology and live streaming tools so teachers can communicate with these students in real-time.
-- Team Size: 4 front-end developers, 2 backend developers.
+- Description: Etown offers courses that students can learn in a practical way using technology and live streaming tools so teachers can communicate with these students in real time.
+- Team Size: 6 developers (4 front-end, 2 back-end).
 - Position: front-end team leader.
-- Frontend tech: ReactJS (Redux), SCSS, ES6
+- Tech stack: Reactjs, SCSS.
 - Responsibilities:
-  Implement UX/UI based on the requirements of the designer.
-  Implement HLS video live streaming feature.
-  Implement voice call one-to-one feature use WebRTC, JS Web APIS (MediaRecorder, MediaSource, MediaStream ...)
-  Collaborate with project manager and team members to define and improve the team’s workflow, which decreases time to deploy new functionality and reduces bugs related to configuration.
+Implement new features and UI
+Implement HLS video live streaming feature.
+Implement voice call one-to-one feature using WebRTC, JS Web APIS (MediaRecorder, MediaSource, MediaStream ...)
 
-> Zaloex - Cryptocurrency exchange (Company product)
-
+> Zaloex - Cryptocurrency exchange
+>
 > Aug 2017 - April 2018
 
 - Description: Zaloex provides trading services with BTC, ETH, USDT, and many cryptocurrency coins. This includes buying and selling digital currency.
-- Team Size: 3 front-end developers, 1 backend developer.
+- Team Size: 4 developers (3 front-end, 1 back-end).
 - Position: front-end team leader.
-- Frontend tech: ReactJS (Redux), SCSS, ES6
-- Mobile: React Native.
+- Tech stack: Reactjs, SCSS, React Native, Express, Nodejs
 - Responsibilities:
-  Implement UX/UI based on the requirements of the designer, stakeholders.
-  Design database schema and implement back-end services, implement additional functionalities.
-  Collaborate with the team leader to define and improve the team’s workflow, which decreases time to deploy new functionality and reduces bugs related to configuration.
+Implement new features and UI
+Design database schema and implement back-end services, implement additional functionalities.
 
-Student Projects
-
-> Mobile App Gao Ngon & Re.
-
-- Description: This is a project to make a Rice shopping mobile application for Vietnamese people.
-- Technologies: React Native for front end (GitHub), NodeJS for back end (GitHub), Windows Form C# for Management software for admin.
-  > Events Management Web App.
-- Description: This is a project to make a web app with some basic features as create a post, update a post, delete a post, view a list of posts, view a list of students registered, etc.
-- Technologies: Java JSP Servlet, HTML, CSS, JavaScript, Bootstrap.
-
-Pet Project
-
-> Map Directions Mobile App.
-
-- Description: This is a simple project to make a simple react-native application that can get directions from your current location to your destination. (GitHub)
-- Technologies: This project uses React Native, Google Places API Web Service, Google Maps Directions API, Google Maps Android API.
-
-#### Social Activities
+### Social Activities
 
 - Participate in volunteer activities: Entrance Exam Support Program in 2014, Mua He Xanh in 2015.
 - Member of the Executive Committee of Ho Chi Minh Communist Youth Union of the Faculty of Information Technology, The Ho Chi Minh City University of Technology and Education.
-- Participate in organizing extracurricular activities for students of the Faculty of Information Technology such as Mastering IT, Sport Competition, etc.
+- Participate in organizing extracurricular activities for students of the Faculty of Information Technology such as Mastering IT, Sports Competition, etc.
