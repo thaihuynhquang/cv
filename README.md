@@ -12,7 +12,7 @@
 
 ### Career Objective
 
-I am looking forward to contributing experiences to work on a high-traffic project and level up my skills to the senior/principal level as soon as possible.
+I am looking forward to contributing experiences to work on a high-traffic project.
 
 ### Education
 
