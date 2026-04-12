@@ -1,65 +1,44 @@
-About the job
-Company Description
+Job description
+We are looking to hire a skilled Frontend Developer to build and maintain websites for our clients. We’re looking for someone who is passionate about creating beautifully coded, smooth loading experiences.
 
-KMS Technology is a strategic engineering company helping businesses turn bold ideas into high-impact solutions-faster. Founded in 2009 as a U.S.-based services company, we’ve grown into a global organization with locations in the US, Vietnam, Mexico and Poland. KMS is trusted globally for the quality of our engineering and consulting services. We bring deep expertise in product development and quality assurance, Data & AI-native engineering, and delivery excellence to every engagement. Our mission is to help customers build what’s next—accelerating innovation, crafting brilliant solutions, and creating real-world impact. At KMS, we believe sustainable growth is built on the success of our clients and employees, and in making a lasting contribution to our communities.
+If you are passionate about technology, constantly seeking to learn and improve your skillset, then you are the type of person we are looking for!
 
-More about KMS Technology:
+Position Responsibilities:
 
-Website: https://kms-technology.com 
+Deliver high-quality, high-performance front-end design implementations.
+Work with Tech leads, the UX team, and designers to develop methodologies and practices to deliver innovative technical solutions to problems.
+Work with back-end developers with effective implementation of front-end templates, HTML, CSS, JavaScript, ReactJS and React Native.
+Ensure optimal utilization of web standards best practices, semantic front-end markup, structured stylesheets, and efficient JavaScript for development and production.
+Prepare front-end templates to provide progressive enhancement for modern browsers, and graceful degradation for older browsers, within technical specifications and whenever possible.
+Handle design implementation from mockups to site templates with CSS
+Quality assurance and unit testing of deliverables developed based on technical specifications.
+Execute/troubleshoot any frontend technical or performance issues that may arise.
+Research and investigate new technologies and participate and contribute to an agile development environment, bringing in expertise to improve our software delivery process.
+Guide and teach more junior team members
+Your skills and experience
+Required Knowledge & Skills:
 
-LinkedIn: https://www.linkedin.com/company/kms-technology 
+Above 6+ years relevant experience in frontend development
+Demonstrable experience of delivering excellent front-end design implementations in a fast-paced environment
+Solid knowledge and experience in JavaScript is a must
+Experience and knowledge in React Native and React JS is a must
+Experience and knowledge in web markup, including HTML5, CSS3+ is a must
+Experience in using GIT repository is a must
+A solid understanding of Accessibility standards
+Creative thinking and problem solving, strong animation / motion graphic sense
+Ability to work in a team as well as independently with a good work ethic
+Ability to work under pressure and complete tasks within an agreed schedule
+Good understanding in English is a must. 
+Prior Experience:
 
-Job Description
+6+ years’ experience in frontend development for medium to large scale websites and applications
+This position is open to both full-time and freelance candidates; however, freelance applicants are preferred.
 
-Lead the design, development, and maintenance of mobile of cross-platform mobile applications using React Native. 
-Collaborate closely with US-based clients to understand project requirements, provide technical guidance, and ensure successful project delivery. 
-Architect and implement robust and scalable React Native mobile solutions. 
-Define and execute the mobile development strategy, including technology stack, architecture, and best practices. 
-Mentor and guide a team of React Native developers, fostering a culture of innovation and excellence. 
-Collaborate closely with design, product, and backend teams to deliver exceptional user experiences. 
-Optimize application performance, scalability, and user experience. 
-Ensure code quality, maintainability, and adherence to best practices. 
-Stay up-to-date with the latest trends and advancements in React Native and mobile development. 
-Implement comprehensive testing strategies (unit, integration, and UI) to ensure application stability. 
-
-Qualifications
-
-General Requirements:
-
-Upper-Intermediate skill level of English (the ability to present to clients and stakeholders as well as participate online conferences in English)
-Likely having 7+ years of experience depending on how fast of your learning and developing technical capability
-Familiar with Agile development methodologies (Scrum)
-Strong leadership, communication, and collaboration abilities. 
-
-Technical Requirements:
-
-Proven experience as a React Native lead with a strong track record of delivering successful mobile applications. 
-In-depth knowledge of React Native, JavaScript, and associated libraries (e.g., React Navigation, Redux, Expo). 
-Strong understanding of mobile UI/UX design principles and best practices. 
-Proficiency with RESTful APIs, GraphQL, and JSON. 
-Familiarity with CI/CD pipelines and mobile deployment processes. 
-Excellent problem-solving, debugging, and troubleshooting skills. 
-Proficiency in native platform development (iOS and Android) is a plus. 
-
-Additional Information
-
-Perks you Enjoy at KMS
-
-Working in one of the Best Places to Work in Vietnam, Top 10 ITC Company in Vietnam
-Flexible working model: Flexible time & Hybrid working from Ho Chi Minh or Da Nang city 
-Attractive Salary & Benefits, full salary in probation, social insurance on full gross salary
-Annual performance appraisal, 13th-month salary and performance bonus 
-Premium healthcare insurance for you and your loved ones
-Working 5 days/week, from Monday to Friday
-18+ paid leave days/year
-Diverse careers opportunities with Software Services, Software Product Development
-Working and growing in a values-driven, international working environment and standard Agile culture with passionate and talented teams
-Onsite opportunities: short-term and long-term assignments in U.S
-Various training on hot-trend technologies, best practices and soft skills
-Company trip, big annual year-end party every year, team building, etc. 
-Fitness & sport activities: football, tennis, table tennis, badminton, yoga, swimming…
-Joining community development activities: 1% Pledge, charity every quarter, blood donation, public seminars, career orientation talks,…
-Free in-house entertainment facilities (football, ping pong, gym…), coffee, and snacks (instant noodles, cookies, candies…)
-
-And much more, join us and let yourself explore other fantastic things!
-
+Why you'll love working here
+Monthly Star Award
+13th payment
+15 Days annual leave / year + 10 sick leave (paid leave)
+Dynamic and comfortable working environment
+Support for earning certificates
+Five-day work
+Attractive compensation package
