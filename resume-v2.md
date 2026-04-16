@@ -8,7 +8,7 @@ thai.huynh8324@gmail.com | +84 947 738 943 | Ho Chi Minh City, Vietnam
 
 ## Professional Summary
 
-Senior Frontend & Mobile Engineer with 8+ years of experience delivering scalable, high-performance applications across E-commerce, Social Platforms, Blockchain, and Fintech. Specialized in ReactJS and React Native architectures with a strong track record of optimizing performance, leading architectural decisions, and shipping revenue-driven features in production. Passionate about software system architecture, continuous improvement, and leveraging AI-assisted tooling to maximize engineering productivity. Seeking a collaborative team where technical excellence and shared ambitions drive meaningful impact.
+Senior Frontend Developer with 8+ years of experience building high-performance e-commerce and social platforms at scale — including a React/Next.js web platform and cross-platform React Native app serving **58K+ monthly active users** across Singapore and Taiwan. Specialized in ReactJS and React Native architectures with a strong track record of optimizing performance, leading architectural decisions, and shipping revenue-driven features in production. Passionate about software system architecture, continuous improvement, and leveraging AI-assisted tooling to maximize engineering productivity.
 
 ---
 
@@ -17,9 +17,10 @@ Senior Frontend & Mobile Engineer with 8+ years of experience delivering scalabl
 | Category | Skills |
 |---|---|
 | **Languages** | HTML, CSS, JavaScript, TypeScript |
-| **ReactJS Ecosystem** | ReactJS, NextJS, Remix, React Router, Redux, Redux Toolkit, Zustand, Jotai, React Query |
-| **React Native Ecosystem** | React Native, React Navigation, Reanimated, Worklets, Gesture Handler, React Native Screens, React Native SVG |
+| **ReactJS Ecosystem** | ReactJS, NextJS, Remix, React Router, Redux, Redux Toolkit, Zustand, Jotai, React Query, Tailwind CSS 4, Recharts |
+| **React Native Ecosystem** | React Native, React Navigation, Reanimated, Worklets, Gesture Handler, React Native Screens, React Native SVG, Firebase (Crashlytics, Auth), MMKV |
 | **Mobile** | iOS & Android Native Modules |
+| **Monitoring & Analytics** | AWS Athena, Sentry, Core Web Vitals / PageSpeed |
 | **Backend (supporting)** | Ruby on Rails, OpenAPI |
 | **Testing** | Jest, React Testing Library |
 | **Version Control & CI/CD** | Git, GitHub, GitHub Actions |
@@ -43,7 +44,11 @@ Senior Frontend & Mobile Engineer with 8+ years of experience delivering scalabl
 - Maintained **e-commerce features**: Collection Detail, Product Detail, Order & Checkout, Payment, CMS Rendering, Search & Recommendations, and Tracking/Analytics.
 - Maintained **social features**: content listing/filtering/search, user interactions (like, save, comment, report, block), account management, and content lifecycle (create, edit, draft, delete).
 - Designed and documented multiple **REST APIs** using **OpenAPI**, improving cross-team collaboration between frontend and backend.
-- Sustained production quality benchmarks: **99% crash-free rate**, **<400ms app launch time**.
+- Maintained cross-platform React Native app serving **58K+ monthly active users** across iOS and Android in 2 markets (Singapore + Taiwan) with **3,500+ DAU**.
+- Drove **5,000+ weekly installs** across all platforms; reduced **bug rate in sprint from 34.9% to 11.7%** over 15 sprints.
+- Achieved **99.87% crash-free rate** (iOS) with Firebase Crashlytics monitoring and proactive crash triage process.
+- Achieved **271ms app launch time** on iOS — 32% below the 400ms OKR target — through startup optimization and lazy loading of non-critical modules.
+- Implemented high-performance local storage using **MMKV**, replacing AsyncStorage for significantly faster read/write operations.
 
 *Tech stack: React Native, iOS & Android native modules | Team size: 6*
 
@@ -53,7 +58,9 @@ Senior Frontend & Mobile Engineer with 8+ years of experience delivering scalabl
 
 *Hipvan Mobile App — Furniture e-commerce platform*
 
-- Developed and maintained **e-commerce**, **social media**, and **analytics/tracking** features for the Hipvan iOS & Android app.
+- Built and maintained e-commerce, social media, and analytics/tracking features for the Hipvan iOS & Android app in React Native — covering Collection Detail, Product Detail, Order & Checkout, and Search & Recommendations.
+- Contributed to growing the app user base to **11.5K+ MAU** on Android (SG) and **23K+ MAU** on iOS (SG).
+- Collaborated with iOS and Android native teams to implement platform-specific bridges for features requiring native modules.
 
 *Tech stack: React Native | Team size: 3*
 
@@ -63,6 +70,9 @@ Senior Frontend & Mobile Engineer with 8+ years of experience delivering scalabl
 
 *Hipvan Web Ecosystem — Furniture e-commerce platform*
 
+- Led frontend performance optimization initiative, reducing LCP by **32% (3.1s → 2.1s)** and TTFB by **48% (1.3s → 674ms)** — meeting 4 of 5 Core Web Vitals targets for desktop (LCP, INP, FCP, TTFB); CLS at 0.17, improving toward 0.1 target.
+- Achieved **INP of 96ms** against 200ms OKR target (52% below goal) and **FCP of 1.8s** exactly meeting the target.
+- Maintained **94.6% sprint delivery rate** (peak) against 80% OKR target across bi-weekly Agile sprints.
 - Developed and maintained **e-commerce** and **social** features across the Hipvan web platform.
 - Led the **refactoring and migration** of the legacy **Ruby on Rails** codebase (Haml, CoffeeScript) to a modern **ReactJS/NextJS** stack.
 
