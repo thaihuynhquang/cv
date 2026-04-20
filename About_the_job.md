@@ -1,65 +1,99 @@
 About the job
-Ekino, powered by HavasCX, is a French company specialised in Conception, Design, Development and Maintenance of digital solutions: Digital Platforms, Websites, Mobile Applications.
+Job Details
 
-We are part of the Havas Group. We work with other agencies in the network or directly with Asian, European and American clients.
+Key Responsibilities
 
-HavasCX is the global network brand, bringing together over 1,200 specialists in digital transformation, eCommerce, customer experience design and customer acquisition and engagement from Havas’ global and local agencies.
+Develop and maintain React Native mobile applications for patient monitoring and caregiver tools
+Build React.js web applications for healthcare facility administration and operations
+Integrate frontend applications with IoT devices, sensors, and real-time telemetry systems
+Implement alarm handling, notifications, and emergency response workflows
+Support multi-tenant architecture for multiple healthcare providers and facilities
+Integrate with backend services using RESTful APIs
+Prepare and deploy mobile apps to the Apple App Store and Google Play Store
+Collaborate closely with backend, DevOps, and product teams
 
-We build innovative solutions from the ground up with open technologies. Our solutions are integrated with legacy systems (e-commerce, billing, provisioning, leads, CRM,...) and help business and digital managers to meet their objectives.
+Required Technical Skills
 
-We provide our services to large French and international groups. Projects range from 50 to 1000 days of development.
+Frontend Core:
 
-The Ekino Group is composed of 700 consultants and technical experts, located in France (Paris & Bordeaux), Vietnam (Ho Chi Minh City), Singapore, India and USA (New York).
+React Native (Expo experience preferred) – 5+ years
+React.js for web applications – 5+ years
+Strong proficiency in TypeScript / JavaScript
+Experience with Material UI or similar component libraries
+RESTful API integration and asynchronous data handling
+Experience publishing and maintaining mobile apps in app stores
 
-ekino in Vietnam
+Real-Time & IoT
 
-Ekino has been operating in Ho Chi Minh City since 2013, with around 200 employees.
+Experience with real-time data updates and state management
+Push notifications and alerting mechanisms
+Location services (GPS) integration
+Video and/or audio streaming integration
+Understanding of IoT device connectivity and data flows
 
-We are specialised in Sage X3, Digital Architecture, eCommerce, Web Platforms, Mobile and Responsive Apps; Agile Development; ReactJS; AngularJS; NodeJS; Java; .Net; PHP (Symfony, WordPress, Drupal, Magento 2), User Experience, User Interface, Service Design; Cloud Services, DevOps.
+Architecture & Security
 
-Job Description
+Experience with multi-tenant applications
+Role-based access control (RBAC) and authentication flows
+Awareness of healthcare data privacy and security principles
+Responsive design and cross-device compatibility∫
+Performance optimization for mobile and web applications
 
-Design and develop scalable, high-performance web applications using React, Next.js, TypeScript. 
-Drive performance optimization through rendering strategies, code splitting, caching, and bundle management. 
-Define and implement front-end architecture, state management, and reusable component systems. 
-Participate in Agile development, including technical discussions, estimation, and code reviews. 
-Enforce clean, testable code, strong practices in testing, CI/CD, and design patterns. 
-Collaborate closely with Product, UX/UI, and Backend teams to translate complex requirements into scalable solutions. 
-Lead junior developers, provide technical guidance, and support problem-solving on complex frontend challenges. 
-Contribute to technical roadmap and strategic decisions. 
+Required Soft Skills
 
-Desired Skills And Experience
+Strong collaboration and teamwork skills
+Good English communication skills (written and spoken)
+Analytical and problem-solving mindset
+Ability to work with cross-functional teams in a complex domain
+High attention to detail, especially for safety-critical features
+Self-driven and capable of working independently when needed
 
-4+ years' experience in front-end development and design patterns. 
-Expert knowledge of React, Next.js, Redux, TypeScript, JavaScript (ES6+), HTML5, and CSS3. Experience with CSS pre-processors (Sass, Less, Stylus) and post-processors (PostCSS). 
-Hands-on skills in caching, optimizing and securing front-end applications. 
-Familiar with task runners and the build process: Webpack / Gulp. 
-Testing practices: experience with BDD and TDD. 
-Experience with large SaaS applications (preferably decoupling monoliths) and microservice architecture. 
-Familiar with source control management: Git
-Good communication in English. 
-Problem-solving skills. 
-Communication and collaboration skills: able to work independently and in a team environment. 
+Preferred Experience
 
-Nice-to-have Skills
+Experience with healthcare, medical, or regulated applications
+Exposure to emergency response or safety-critical systems
+Experience integrating IoT platforms or sensor networks
+Backend development exposure (Node.js, .NET, or Python)
+Familiarity with CI/CD pipelines and automated deployments
+Basic database integration knowledge
 
-Experience in back-end development (preferably with Laravel/Symfony frameworks). 
-Exposure to working with JSON. 
-OpenAPI, and Swagger. 
-Exposure to DevOps practices and AWS landscape. 
-Exposure to one or more of Solr, Redis, or Elasticsearch. 
+Technical Environment
 
-Why ekino?
+React Native (Expo)
+React.js with Material UI
+Multi-tenant SaaS architecture
+IoT sensors and gateways
+Real-time monitoring and alerting systems
+Cloud infrastructure and containerized deployments
 
-High-ownership working environment: You will take full responsibility and control of your missions contributing to the team's success. 
-Continuous skill improvement with new technologies, challenging projects, on-the-job coaching, and training programs. 
-Annual performance review & bonus: recognize your efforts and identify development/ improvement needs. 
-Clear career path: define your career development with long-term vision. 
-Be secured in your mind with employee’s care: private healthcare insurance package, medical check-up, support allowance... 
-Great-place-to-work activities (company trip, sport clubs...): enhance teamwork spirit and facilitate your work-life harmony. 
+What You’ll Build
 
-To apply for this position, please kindly submit your resume via this link.
+Mobile applications for patients and caregivers
+Web dashboards for healthcare facilities
+Real-time monitoring and alert interfaces
+Emergency response and alarm management tools
+IoT device and sensor management features
 
-Thank you for your time and enthusiasm in our career opportunities.
+About The Company
 
-Please kindly note that shortlisted candidates will be contacted within 3 weeks of application. Alternatively, we will reach out to you when another suitable chance arises in the future.
+About the Role:
+
+Domain: Healthcare Monitoring Platform
+We are looking for a Frontend Developer to join our healthcare monitoring platform team. You will build mobile and web applications used in patient care, caregiver workflows, and emergency response systems. This role involves working with React Native mobile apps and React-based web admin interfaces, integrating with IoT devices and real-time monitoring systems in a safety-critical healthcare
+
+Benefits
+
+13th-month salary bonus provided to all staff members.
+Comprehensive healthcare insurance package for you and your dependents.
+Annual health check-up included.
+12 days of annual leave per year, with the opportunity for 1 additional day per year, up to a maximum of 18 days. Additionally, 3 special Restaff holidays are granted on December 24th, 25th, and 26th.
+Hybrid working model allowing for 1 day per week of remote work.
+English-speaking working environment.
+Overseas business trip opportunities available.
+Sponsorship and encouragement for staff members to pursue further education through coverage of tuition fees and examination costs.
+Product-oriented approach with an agile project management style, offering a dynamic work environment and the chance to gain expertise in the latest technologies.
+Regular gathering parties and team-building activities.
+Complimentary coffee (including cappuccino, cafe latte, latte macchiato, etc.), milk, and juice.
+Working hours from 9 am to 6 pm, Monday to Friday, with a one-hour lunch break and a thirty-minute break in the afternoon.
+Annual Performance Appraisal opportunities
+And much more!
