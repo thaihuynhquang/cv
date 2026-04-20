@@ -111,10 +111,4 @@ Senior Frontend Developer with 8+ years of experience building high-performance 
 Bachelor of Engineering — Information Technology, Software Engineering
 Aug 2013 – Dec 2017 | GPA: 7.5/10
 
----
-
-## Activities
-
-- Volunteer: Entrance Exam Support Program (2014), Mua He Xanh (2015)
-- Executive Committee Member, Ho Chi Minh Communist Youth Union — Faculty of Information Technology
-- Co-organized faculty student events: Mastering IT, Sports Competition
+--- 
