@@ -1,99 +1,53 @@
-About the job
-Job Details
+# Holistics - Frontend Engineer (Junior/Middle)
 
-Key Responsibilities
+## Job Details
+- **Role**: Frontend Engineer (Junior/Middle)
+- **Location**: 457-459 Nguyen Dinh Chieu, Ward 5, District 3, Ho Chi Minh City, Vietnam
+- **Working Hours**: Monday – Friday, 9:00 AM – 6:00 PM
+- **Working Model**: Hybrid (WFH + WFO)
 
-Develop and maintain React Native mobile applications for patient monitoring and caregiver tools
-Build React.js web applications for healthcare facility administration and operations
-Integrate frontend applications with IoT devices, sensors, and real-time telemetry systems
-Implement alarm handling, notifications, and emergency response workflows
-Support multi-tenant architecture for multiple healthcare providers and facilities
-Integrate with backend services using RESTful APIs
-Prepare and deploy mobile apps to the Apple App Store and Google Play Store
-Collaborate closely with backend, DevOps, and product teams
+## Tech Stack & Architecture
+- **Frontend**: Vue.js 3.0, TypeScript, Web Workers, Custom web-based IDE/Editor and Compiler, Custom Lazy-rendering components
+- **Backend & DB**: Ruby on Rails (Modular Monolith with local gems/engines, Sorbet for static typing), PostgreSQL (Custom queue system), Sidekiq/Redis
 
-Required Technical Skills
+## Key Projects & Responsibilities
+- Build web-based IDE for data exploration & analytics logic
+- Build grid-based dashboard-as-code
+- Create custom, interactive visualization components (Vega-Lite)
+- Develop & optimize a new Design System across products
+- Develop frontend components rendering hundreds of thousands of data points
+- Performance auditing & optimization (lazy rendering, speed, user experience)
+- Develop & optimize CI/CD pipeline for frontend (DX)
+- Design & build natural language interface for data exploration
+- Create a domain-specific language (DSL) for semantic layer
 
-Frontend Core:
+## Required Skills & Mindset
+- **Frontend Passion**: Deep interest in frontend, UI/UX, and building high-performance components
+- **Computer Science Foundation**: Strong CS fundamentals and problem-solving skills
+- **Growth Mindset**: Continuous learning, excited to learn new things weekly
+- **Communication**: Comfortable communicating in written English (strong writing culture)
+- **Product Interest**: Genuine interest in the product and the analytics/BI space
+- *Note: Experience with the specific tech stack (Vue.js, Ruby on Rails) is NOT required.*
 
-React Native (Expo experience preferred) – 5+ years
-React.js for web applications – 5+ years
-Strong proficiency in TypeScript / JavaScript
-Experience with Material UI or similar component libraries
-RESTful API integration and asynchronous data handling
-Experience publishing and maintaining mobile apps in app stores
+## Way of Working (Culture)
+- **Spotify Squad Model**: 4 squads (5-7 members), close collaboration between Engineers, PMs, and Designers
+- **Process**: PDD/PRD -> Technical Research -> Implementation
+- **Quality First**: Refactor regularly, no compromise on code/product quality for artificial deadlines
+- **Pair Programming**: Active pair programming for faster knowledge transfer and code quality
+- **Strong Writing Culture**: Written documents, evergreen notes
+- **Problem-Solving Culture**: Separate Problem Space vs Solution Space, use Eigenquestions
+- **No Feature Factory**: Quality over quantity of features
+- **Rotation & Learning**: Rotating every 3-6 months. Weekly TED talks, tech talks, and monthly workshops
 
-Real-Time & IoT
+## Interview Process
+- **Round 1**: Pair-coding interview
+- **Round 2**: Technical interview (Optional)
+- **Round 3**: Culture & Behavior Interview
 
-Experience with real-time data updates and state management
-Push notifications and alerting mechanisms
-Location services (GPS) integration
-Video and/or audio streaming integration
-Understanding of IoT device connectivity and data flows
-
-Architecture & Security
-
-Experience with multi-tenant applications
-Role-based access control (RBAC) and authentication flows
-Awareness of healthcare data privacy and security principles
-Responsive design and cross-device compatibility∫
-Performance optimization for mobile and web applications
-
-Required Soft Skills
-
-Strong collaboration and teamwork skills
-Good English communication skills (written and spoken)
-Analytical and problem-solving mindset
-Ability to work with cross-functional teams in a complex domain
-High attention to detail, especially for safety-critical features
-Self-driven and capable of working independently when needed
-
-Preferred Experience
-
-Experience with healthcare, medical, or regulated applications
-Exposure to emergency response or safety-critical systems
-Experience integrating IoT platforms or sensor networks
-Backend development exposure (Node.js, .NET, or Python)
-Familiarity with CI/CD pipelines and automated deployments
-Basic database integration knowledge
-
-Technical Environment
-
-React Native (Expo)
-React.js with Material UI
-Multi-tenant SaaS architecture
-IoT sensors and gateways
-Real-time monitoring and alerting systems
-Cloud infrastructure and containerized deployments
-
-What You’ll Build
-
-Mobile applications for patients and caregivers
-Web dashboards for healthcare facilities
-Real-time monitoring and alert interfaces
-Emergency response and alarm management tools
-IoT device and sensor management features
-
-About The Company
-
-About the Role:
-
-Domain: Healthcare Monitoring Platform
-We are looking for a Frontend Developer to join our healthcare monitoring platform team. You will build mobile and web applications used in patient care, caregiver workflows, and emergency response systems. This role involves working with React Native mobile apps and React-based web admin interfaces, integrating with IoT devices and real-time monitoring systems in a safety-critical healthcare
-
-Benefits
-
-13th-month salary bonus provided to all staff members.
-Comprehensive healthcare insurance package for you and your dependents.
-Annual health check-up included.
-12 days of annual leave per year, with the opportunity for 1 additional day per year, up to a maximum of 18 days. Additionally, 3 special Restaff holidays are granted on December 24th, 25th, and 26th.
-Hybrid working model allowing for 1 day per week of remote work.
-English-speaking working environment.
-Overseas business trip opportunities available.
-Sponsorship and encouragement for staff members to pursue further education through coverage of tuition fees and examination costs.
-Product-oriented approach with an agile project management style, offering a dynamic work environment and the chance to gain expertise in the latest technologies.
-Regular gathering parties and team-building activities.
-Complimentary coffee (including cappuccino, cafe latte, latte macchiato, etc.), milk, and juice.
-Working hours from 9 am to 6 pm, Monday to Friday, with a one-hour lunch break and a thirty-minute break in the afternoon.
-Annual Performance Appraisal opportunities
-And much more!
+## Benefits
+- 100% Social Insurance on full gross salary
+- 24/7 premium healthcare insurance (employee & family)
+- 14 annual leaves, 14 sick leaves, childcare leave
+- 13th-month salary, annual compensation reviews
+- Annual budget for personal/professional growth and well-being
+- MacBook/Laptop, mechanical keyboard, mouse, external monitor(s) provided
