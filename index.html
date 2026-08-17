@@ -303,6 +303,18 @@
       font-weight: 500;
     }
 
+    .product-link {
+      color: var(--accent-color);
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 2px;
+      transition: color 0.2s, opacity 0.2s;
+    }
+
+    .product-link:hover {
+      opacity: 0.8;
+    }
+
     /* Sidebar list item styles */
     .skill-group {
       margin-bottom: 1.25rem;
@@ -603,7 +615,12 @@
       .page-break {
         page-break-before: always;
         break-before: page;
-        padding-top: 0.5rem !important;
+        padding-top: 1rem !important;
+      }
+
+      .product-link {
+        color: inherit !important;
+        text-decoration: none !important;
       }
     }
   </style>
@@ -715,7 +732,12 @@
               <span>Dec 2024 – May 2026</span>
               <span>Singapore & Taiwan Region</span>
             </div>
-            <p class="job-desc">Launched and developed Communa App, a social commerce platform for home inspiration &
+            <p class="job-desc">Launched and developed new version of Hipvan Apps (<a
+                href="https://apps.apple.com/sg/app/hipvan/id863030475" target="_blank" rel="noopener noreferrer"
+                class="product-link">Hipvan iOS App</a> | <a
+                href="https://play.google.com/store/apps/details?id=com.hipvan" target="_blank"
+                rel="noopener noreferrer" class="product-link">Hipvan Android App</a>), a social commerce platform for
+              home inspiration &
               furnishings.</p>
             <ul class="job-bullets">
               <li><strong>API Design & Contract</strong>: Spearheaded API contract definition using OpenAPI/Swagger,
@@ -727,15 +749,16 @@
                 proactive Firebase Crashlytics monitoring and disciplined triage processes.</li>
               <li><strong>User Acquisition</strong>: Drove weekly installs to 5,000+ by developing a short-form video
                 feed, real-time social tools, and optimizing app startup performance.</li>
-              <li><strong>Market Expansion</strong>: Led the localization and launch of the Ohouse Taiwan app, adapting
-                the existing codebase to enter the Taiwan market in record time.</li>
+              <li><strong>Market Expansion</strong>: Led the localization and launch of the <a
+                  href="https://apps.apple.com/tw/app/ohouse-room-makeover-ideas/id6749665105" target="_blank"
+                  rel="noopener noreferrer" class="product-link">Ohouse iOS Taiwan App</a> and <a
+                  href="https://play.google.com/store/apps/details?id=com.ohouse.tw" target="_blank"
+                  rel="noopener noreferrer" class="product-link">Ohouse Android Taiwan App</a>, adapting the existing
+                codebase to enter the Taiwan market in record time.</li>
             </ul>
             <div class="job-tech-tag">React Native, TypeScript, Firebase, OpenAPI/Swagger, iOS/Android Native Modules
             </div>
           </div>
-
-          <!-- Page Break here for printing (2-page target) -->
-          <div class="page-break"></div>
 
           <!-- Job 2 -->
           <div class="job-item">
@@ -760,6 +783,9 @@
             <div class="job-tech-tag">React Native, TypeScript, iOS/Android bridges</div>
           </div>
 
+          <!-- Page Break here for printing (2-page target) -->
+          <div class="page-break"></div>
+
           <!-- Job 3 -->
           <div class="job-item">
             <div class="job-header">
@@ -770,7 +796,9 @@
               <span>April 2019 – Dec 2022</span>
               <span>Acquired by Bucketplace Inc.</span>
             </div>
-            <p class="job-desc">Modernized the furniture e-commerce platform with key features and performance upgrades.
+            <p class="job-desc">Modernized the <a href="https://www.hipvan.com/" target="_blank"
+                rel="noopener noreferrer" class="product-link">Hipvan Website</a> furniture e-commerce platform with key
+              features and performance upgrades.
             </p>
             <ul class="job-bullets">
               <li><strong>Performance Auditing & Core Web Vitals</strong>: Owned the end-to-end performance initiative,
