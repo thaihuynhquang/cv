@@ -4,8 +4,4 @@ Personal resume repository for Thai Huynh Quang, Senior Frontend & Mobile Engine
 
 ## Files
 
-- `resume-v3.md` — Polished English resume (current version)
-
-## Versioning
-
-New versions are named `resume-v2.md`, `resume-v3.md`, etc.
+- `resume.md` — Polished English resume (current version)
