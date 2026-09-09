@@ -15,12 +15,12 @@ Senior Frontend Software Engineer with 8+ years of experience specializing in we
 
 ## Skills
 
-- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3 / SCSS
-- **Frontend / Web**: React (Next.js, Remix), Vue.js (Adaptability), Redux / Zustand / Jotai, React Query, Web Workers, Tailwind CSS
-- **Mobile Development**: React Native, Native Module Bridges, Firebase Crashlytics, App Store Deployment
+- **Languages**: JavaScript (ES2026), TypeScript, HTML5, CSS3 / SCSS
+- **Frontend / Web**: React (Next.js / Remix / TanStack Start), Redux / Zustand / Jotai, TanStack Query, Vanilla Web
+- **Mobile**: React Native, React Navigation, Reanimated, Gesture Handler, MMKV, Native Module Bridges, App Store Deployment
 - **Backend & DevOps**: Ruby on Rails, OpenAPI / Swagger, GitHub Actions CI/CD, REST & RESTful APIs
-- **Testing & Perf**: Jest, React Testing Library, Core Web Vitals, Sentry
-- **Methodologies**: Agile / Scrum, Pair Programming, Problem Space Analysis
+- **Testing & Perf**: Jest, React / React Native Testing, Core Web Vitals, Sentry / Firebase Crashlytics
+- **AI & Methodologies**: Claude Code / Codex / Cursor, Agile / Scrum, Pair Programming
 
 ---
 

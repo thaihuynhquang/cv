@@ -30,26 +30,39 @@
       "https://github.com/thaihuynhquang"
     ],
     "knowsAbout": [
-      "JavaScript (ES6+)",
+      "JavaScript (ES2026)",
       "TypeScript",
       "HTML5",
       "CSS3 / SCSS",
-      "React (Next.js, Remix)",
-      "Vue.js",
-      "Redux / Zustand / Jotai",
-      "React Query",
-      "Web Workers",
-      "Tailwind CSS",
+      "React",
+      "Next.js",
+      "Remix",
+      "TanStack Start",
+      "Redux",
+      "Zustand",
+      "Jotai",
+      "TanStack Query",
       "React Native",
+      "React Navigation",
+      "Reanimated",
+      "Gesture Handler",
+      "MMKV",
       "Native Module Bridges",
-      "Firebase Crashlytics",
+      "App Store Deployment",
       "Ruby on Rails",
       "OpenAPI / Swagger",
       "GitHub Actions CI/CD",
       "REST & RESTful APIs",
-      "Core Web Vitals",
       "Jest",
-      "React Testing Library"
+      "React / React Native Testing",
+      "Core Web Vitals",
+      "Sentry",
+      "Firebase Crashlytics",
+      "Claude Code",
+      "Codex",
+      "Cursor",
+      "Agile / Scrum",
+      "Pair Programming"
     ],
     "alumniOf": {
       "@type": "CollegeOrUniversity",
@@ -352,28 +365,38 @@
     .skills-grid {
       display: flex;
       flex-direction: column;
-      gap: 0.65rem;
-      font-size: 0.925rem;
     }
 
     .skill-group {
       display: grid;
-      grid-template-columns: 200px 1fr;
-      gap: 0.75rem;
+      grid-template-columns: 165px 1fr;
+      gap: 1rem;
       align-items: baseline;
-      line-height: 1.45;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .skill-group:first-child {
+      padding-top: 0;
+    }
+
+    .skill-group:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
     }
 
     .skill-group-title {
       font-weight: 700;
       color: var(--text-primary);
       text-transform: uppercase;
-      font-size: 0.875rem;
+      font-size: 0.85rem;
       letter-spacing: 0.025em;
     }
 
     .skill-list {
       color: var(--text-secondary);
+      font-size: 0.925rem;
+      line-height: 1.55;
     }
 
     /* Education */
@@ -485,7 +508,8 @@
 
       .skill-group {
         grid-template-columns: 1fr;
-        gap: 0.2rem;
+        gap: 0.25rem;
+        padding: 0.45rem 0;
       }
 
       .job-header,
@@ -617,17 +641,34 @@
       }
 
       .skills-grid {
-        gap: 3pt !important;
-        font-size: 8.5pt !important;
+        gap: 0 !important;
       }
 
       .skill-group {
-        grid-template-columns: 140pt 1fr !important;
+        grid-template-columns: 120pt 1fr !important;
         gap: 6pt !important;
+        padding: 2pt 0 !important;
+        border-bottom: 0.5pt solid var(--border-color) !important;
+        align-items: baseline !important;
+      }
+
+      .skill-group:first-child {
+        padding-top: 0 !important;
+      }
+
+      .skill-group:last-child {
+        border-bottom: none !important;
+        padding-bottom: 0 !important;
       }
 
       .skill-group-title {
         font-size: 8.5pt !important;
+      }
+
+      .skill-list {
+        font-size: 8.5pt !important;
+        line-height: 1.35 !important;
+        color: #475569 !important;
       }
 
       .edu-item {
@@ -769,18 +810,17 @@
         <div class="skills-grid">
           <div class="skill-group">
             <div class="skill-group-title">Languages</div>
-            <div class="skill-list">JavaScript (ES6+), TypeScript, HTML5, CSS3 / SCSS</div>
+            <div class="skill-list">JavaScript (ES2026), TypeScript, HTML5, CSS3 / SCSS</div>
           </div>
 
           <div class="skill-group">
             <div class="skill-group-title">Frontend / Web</div>
-            <div class="skill-list">React (Next.js, Remix), Vue.js (Adaptability), Redux / Zustand / Jotai, React Query,
-              Web Workers, Tailwind CSS</div>
+            <div class="skill-list">React (Next.js / Remix / TanStack Start), Redux / Zustand / Jotai, TanStack Query, Vanilla Web</div>
           </div>
 
           <div class="skill-group">
-            <div class="skill-group-title">Mobile Development</div>
-            <div class="skill-list">React Native, Native Module Bridges, Firebase Crashlytics, App Store Deployment</div>
+            <div class="skill-group-title">Mobile</div>
+            <div class="skill-list">React Native, React Navigation, Reanimated, Gesture Handler, MMKV, Native Module Bridges, App Store Deployment</div>
           </div>
 
           <div class="skill-group">
@@ -790,12 +830,12 @@
 
           <div class="skill-group">
             <div class="skill-group-title">Testing & Perf</div>
-            <div class="skill-list">Jest, React Testing Library, Core Web Vitals, Sentry</div>
+            <div class="skill-list">Jest, React / React Native Testing, Core Web Vitals, Sentry / Firebase Crashlytics</div>
           </div>
 
           <div class="skill-group">
-            <div class="skill-group-title">Methodologies</div>
-            <div class="skill-list">Agile / Scrum, Pair Programming, Problem Space Analysis</div>
+            <div class="skill-group-title">AI & Methodologies</div>
+            <div class="skill-list">Claude Code / Codex / Cursor, Agile / Scrum, Pair Programming</div>
           </div>
         </div>
       </section>
