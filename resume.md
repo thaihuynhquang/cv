@@ -103,6 +103,7 @@ Information Technology, Software Engineering
 ## Achievements
 
 - **1st Place - Hipvan Hackathon 2025**: Designed and pitched an AI-powered interior layout application generating furniture positions on photo uploads.
+- **Open Source Security Contribution - apple-notes-mcp (Nov 2026)**: Discovered and responsibly disclosed 3 security vulnerabilities (published advisory GHSA-j663-w4cg-r8h8, medium severity) in an Apple Notes MCP server; authored fixes with regression tests for 2 of them, merged upstream with co-author credit. [Advisory](https://github.com/sweetrb/apple-notes-mcp/security/advisories/GHSA-j663-w4cg-r8h8) · [PR #332](https://github.com/sweetrb/apple-notes-mcp/pull/332) · [PR #333](https://github.com/sweetrb/apple-notes-mcp/pull/333)
 - **Claude Code in Action Certified**: Proactive adopter of AI coding assistants to optimize developer workflows and velocity. [Verify Link](https://academy.claude.com/verify/7cafe159666b6933c6c2deb14f5bac5e)
 
 ---
