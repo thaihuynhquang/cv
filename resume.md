@@ -103,7 +103,7 @@ Information Technology, Software Engineering
 ## Achievements
 
 - **1st Place - Hipvan Hackathon 2025**: Designed and pitched an AI-powered interior layout application generating furniture positions on photo uploads.
-- **Claude Code in Action Certified**: Proactive adopter of AI coding assistants to optimize developer workflows and velocity. [Verify Link](https://verify.skilljar.com/c/w9jxpw2r647k)
+- **Claude Code in Action Certified**: Proactive adopter of AI coding assistants to optimize developer workflows and velocity. [Verify Link](https://academy.claude.com/verify/7cafe159666b6933c6c2deb14f5bac5e)
 
 ---
 
